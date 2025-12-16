@@ -218,7 +218,7 @@ footer {
 
  /*-- styles left Sidebar for Login Form --*/
 .login-container {
-    width: 450px;
+    width: 420px;
     background-color: #568df3;
     position: fixed; 
     left: 34rem;
@@ -288,3 +288,4 @@ button:hover {
     color: #007BFF;
     text-decoration: none;
 }
+
